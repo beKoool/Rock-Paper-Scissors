@@ -19,8 +19,7 @@ node index.js
 
 ## Screenshot and video
 
-
-![Video of the program](https://user-images.githubusercontent.com/76424367/147486733-b360c5b0-2b01-4764-a4ff-42cc06dcd5d4.mp4)
+https://user-images.githubusercontent.com/76424367/147486733-b360c5b0-2b01-4764-a4ff-42cc06dcd5d4.mp4
 
 ![Image of the program](https://i.imgur.com/j4cN1Ou.png)
 
