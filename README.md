@@ -28,4 +28,4 @@ https://user-images.githubusercontent.com/76424367/147486733-b360c5b0-2b01-4764-
 
 Thank you for viewing this repository. I will surely work on some more projects like this for practice and to improve my skills on JavaScript 😉.
 
-_Made_  _With_   ❤️ *by* *TheCoolDev* 😎
+_Made_  _With_   ❤️ *by* *beKool.sh* 😎
