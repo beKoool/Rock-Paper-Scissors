@@ -11,7 +11,7 @@ Hello there! This is a node js rock paper scissors app in which we can play 🎮
 
 ### Installation
 ```
-git clone https://github.com/TheCoolGDev/Rock-Paper-Scissors.git
+git clone https://github.com/beKoool/Rock-Paper-Scissors.git
 cd Rock-Paper-Scissors
 npm install
 node index.js
