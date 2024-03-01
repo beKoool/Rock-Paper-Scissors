@@ -1,5 +1,5 @@
 # Rock Paper Scissors ✊✋✌️ 
-Hello there! This is a node js rock paper scissors app in which we can play 🎮 Rock paper scissors ( *as the name suggests* ) in the terminal. I made this to improve my JavaScript skills and for some practice in free time.. 
+Hello there! This is a node.js Rock Paper Scissors app in which you can play Rock paper scissors in the terminal. Made this as a side project a while ago.
 
 
 # How to install this?
